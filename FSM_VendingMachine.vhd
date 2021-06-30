@@ -22,8 +22,7 @@ type state_type is (
  change_out, 	   	
  pringles_dispense	
  );
-
-
+ 
 signal now_state,next_state: state_type;
 
 begin
@@ -132,7 +131,6 @@ when money_1 =>
     Pringles <= '0';  	
     change <= "000";
     next_state <= start; 
-
 
 end case;
 end process;
