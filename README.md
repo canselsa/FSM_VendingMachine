@@ -13,8 +13,8 @@ Cases:
 5) Putting 2$ => getting the can 6) Putting 5$ => receive the change => getting the can.
 
 Input and Outputs:
-- CLK (Clock): a clock that will run the 
-- FSM Reset: a signal that will reset the FSM to its initial state 
+- CLK (Clock): a clock that will run the FSM 
+- Reset: a signal that will reset the FSM to its initial state 
 - MoneyIn: Input amount 
 - Total: Sum of the money inside the machine 
 - Pringles: Pringles can given to the customer 
