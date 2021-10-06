@@ -5,7 +5,7 @@ We have a vending machine that sells Pringles cans that costs 2$ each. Besides, 
 Notes: You can assume there is an infinite number of cans in the machine stock. You can also assume that you can input one type of coin at every deposit. 
 (You cannot deposit 1$ AND 5$ at the same time.)
 
-**Cases: **
+**Cases:**
  1) You input NO coin.
  2) Putting 1$ followed by another 1$ => getting the can
  3) Putting 1$ followed by 2$ => receive the change => getting the can
@@ -20,7 +20,7 @@ Notes: You can assume there is an infinite number of cans in the machine stock. 
 - Pringles: Pringles can given to the customer 
 - Change: Money amount of given to the customer
 
-**States: **
+**States:**
 - start: Initial step of the process 
 - hold: Waiting input from customer 
 - pringles_dispense: dispensing out the Pringles can
