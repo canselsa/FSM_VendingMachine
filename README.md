@@ -26,3 +26,7 @@ States:
 - pringles_dispense: dispensing out the Pringles can
 - money_1,money_2,money_3,money_5,money_6: the money which is in the FSM machine
 - signal now_state,next_state: state_type; current and next state declaration
+
+![VendingMachine-removebg-preview](https://user-images.githubusercontent.com/74294837/136241576-03d38dde-b3b3-41ed-a3ac-8d624706fb36.png)
+
+
