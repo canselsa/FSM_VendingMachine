@@ -1,6 +1,6 @@
 # FSM_VendingMachine
 
-We have a vending machine that sells Pringles cans that costs 2$ each. Besides, the machine only accepts three types of coins: 1$, 2$, and 5$. 
+We have a vending machine that sells Pringles cans that costs 2$ each. Besides, the machine only accepts three types of coins: 1$, 2$, and 5$.
 
 Notes: You can assume there is an infinite number of cans in the machine stock. You can also assume that you can input one type of coin at every deposit. 
 (You cannot deposit 1$ AND 5$ at the same time.)
