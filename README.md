@@ -31,4 +31,4 @@ Notes: You can assume there is an infinite number of cans in the machine stock. 
 - signal now_state,next_state: state_type; current and next state declaration
 ```
 
-
+ 
